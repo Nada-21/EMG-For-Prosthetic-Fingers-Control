@@ -15,4 +15,4 @@ extracted, using feature selection methods such as Wrapper
 Method we managed to drop unrelated features.
 
 
-[Project Poster][poster.pdf](https://github.com/Nada-21/EMG-For-Prosthetic-Fingers-Control/files/14485804/poster.pdf)
+Project Poster  [poster.pdf](https://github.com/Nada-21/EMG-For-Prosthetic-Fingers-Control/files/14485804/poster.pdf)
